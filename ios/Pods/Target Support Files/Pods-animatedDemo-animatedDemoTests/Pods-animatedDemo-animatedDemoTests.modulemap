@@ -1,0 +1,6 @@
+module Pods_animatedDemo_animatedDemoTests {
+  umbrella header "Pods-animatedDemo-animatedDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
